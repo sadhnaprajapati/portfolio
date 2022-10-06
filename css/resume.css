@@ -147,3 +147,12 @@ a:focus,
 a:active {
   color: #824027;
 }
+
+.download {
+  border: 0;
+  background: #495057;
+  cursor: pointer;
+}
+.download:hover {
+  background: #7f614f;
+}
